@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_045021329018e347ccf653d54a42b868ce0dc72d\classes.dex" />
+    </item>
+    <item
+        jar="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_c2c15c024f2397f7e13081ec12cbceda51ed7034\classes.dex" />
+    </item>
+    <item
+        jar="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_6c320ffc6357a63f440b93f99b7ede0bef441842\classes.dex" />
+    </item>
+    <item
+        jar="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_b883ffc975e39cc3ee47665540e0c184cf0db041\classes.dex" />
+    </item>
+    <item
+        jar="J:\AndroidStudioSDK\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_0ed10154029ec1f5d69f72045e170dc09e49697d\classes.dex" />
+    </item>
+    <item
+        jar="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_a1f91bc30cf4bd48215f3e3d92e1975b7a704f24\classes.dex" />
+    </item>
+    <item
+        jar="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9a74c4eff1d1425f7e7f75aec90d9681eff2e8aa">
+        <dex dex="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3996afc0855b4d4cad4738caf69efab20aa30081\classes.dex" />
+    </item>
+    <item
+        jar="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_7aebeec0956c2adf2b0eac032e397a151627eff5\classes.dex" />
+    </item>
+    <item
+        jar="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_2c59c66c73859dc39dccfa7eb32b80b9063b93a4\classes.dex" />
+    </item>
+    <item
+        jar="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_318328f6845efeb88f7900ca20a762719bcb6428\classes.dex" />
+    </item>
+    <item
+        jar="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e7d6dfb9b1f74300e82af3f3cb2a49782c489e85\classes.dex" />
+    </item>
+    <item
+        jar="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_cfd013b97716b97c631a7495e79601276d9cc69a\classes.dex" />
+    </item>
+    <item
+        jar="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_ba16ba562f24c51e5334b157780ed744de03e69a\classes.dex" />
+    </item>
+    <item
+        jar="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_1b4a4f9262153bcff9c3f9fc3b80b9896bee59eb\classes.dex" />
+    </item>
+    <item
+        jar="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_8ab0baaad6a09eb58091f5597be0a8c38d3dca30\classes.dex" />
+    </item>
+    <item
+        jar="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_015d7ea55d8bdb3c9174ccbdd342917c26194e3e\classes.dex" />
+    </item>
+    <item
+        jar="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d964ff6be9687a72ee4ad5398aff97d5ed66c7d2">
+        <dex dex="J:\AndroidStudioSDK\sandbox\android\HitIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d1e8c331da4fb20aef4acf012ea86fff2c2b49ab\classes.dex" />
+    </item>
+
+</items>
